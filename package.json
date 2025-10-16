@@ -8,6 +8,10 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oblokulov404/my-portfolie-sayt.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
